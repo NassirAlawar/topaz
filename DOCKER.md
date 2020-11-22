@@ -30,3 +30,4 @@ This is useful for things like updating and testing the lua scripts without need
 
 Example copying godmode.lua script from local machine to server (where server name is `topaz_game_1`):
 `docker cp scripts/commands/godmode.lua topaz_game_1:/topaz/scripts/commands/godmode.lua`
+aaaaa
